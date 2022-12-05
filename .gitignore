@@ -20,3 +20,6 @@ db.sqlite3
 .Trashes
 
 .idea/
+
+# Frontend
+frontend/node_modules

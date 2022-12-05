@@ -56,6 +56,8 @@ django-cms==3.11.0
     #   djangocms-style
     #   djangocms-text-ckeditor
     #   djangocms-video
+django-cors-headers==3.13.0
+djangorestframework==3.14.0
 django-entangled==0.4
     # via djangocms-frontend
 django-filer==2.2.3
@@ -196,6 +198,7 @@ wheel==0.37.1
     # via pip-tools
 whitenoise==5.2.0
     # via -r requirements.in
+
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip
